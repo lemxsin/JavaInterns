@@ -1,4 +1,4 @@
-package com.examp;
+package homework;
 
 /**
  * Тип  Размер  Пример  Описание

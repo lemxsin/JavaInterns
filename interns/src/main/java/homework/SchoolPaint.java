@@ -1,4 +1,4 @@
-package com.examp;
+package homework;
 
 public class SchoolPaint {
     private int countOfCans = 120;

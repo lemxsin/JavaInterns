@@ -1,4 +1,4 @@
-package com.examp;
+package homework;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

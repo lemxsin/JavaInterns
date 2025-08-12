@@ -1,4 +1,4 @@
-package com.examp;
+package homework;
 import java.util.Scanner;
 
 public class Salary {

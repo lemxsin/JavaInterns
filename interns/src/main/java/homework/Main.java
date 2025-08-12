@@ -1,4 +1,4 @@
-package homework
+package homework;
 
 public class Main {
     public static void main(String[] args) {
@@ -36,8 +36,8 @@ public class Main {
         // f.printInfo();
 
         //Здание 8
-        // Salary s = new Salary();
-        // s.printInfo();
+        Salary s = new Salary();
+        s.printInfo();
     } 
 }
 

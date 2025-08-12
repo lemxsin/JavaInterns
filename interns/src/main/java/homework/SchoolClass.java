@@ -1,4 +1,4 @@
-package com.examp;
+package homework;
 
 public class SchoolClass extends Calculatable{
     int stundets;
